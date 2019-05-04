@@ -1,0 +1,24 @@
+{
+  "name": "Express-Sat-5-4-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumikonomura/Express-Sat-5-4-19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumikonomura/Express-Sat-5-4-19/issues"
+  },
+  "homepage": "https://github.com/kumikonomura/Express-Sat-5-4-19#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
